@@ -26,8 +26,9 @@
     'version': '12',
     'category': 'General',
 	'summary': 'HR Employee Expense Advance',
-	'author': 'Ananthu',
+	'author': 'Ananthu krishna',
     'website': 'http://www.codersfort.com',
+    "images": ['images/expense_advance_request.png'],
     'description': """HR Employee Expense Advance""",
     'depends': ['base','hr_expense','account','mail'],
     'data': [
