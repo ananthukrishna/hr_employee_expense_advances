@@ -28,6 +28,7 @@
 	'summary': 'HR Employee Expense Advance',
 	'author': 'CodersFort',
     'website': 'http://www.codersfort.com',
+    'license': 'AGPL-3',
     "images": ['images/expense_advance_request.png'],
     'description': """HR Employee Expense Advance""",
     'depends': ['base','hr_expense','account','mail'],
